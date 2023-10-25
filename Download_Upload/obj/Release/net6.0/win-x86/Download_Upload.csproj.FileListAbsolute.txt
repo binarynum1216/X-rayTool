@@ -1,0 +1,1365 @@
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\appsettings.Development.json
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\appsettings.json
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.exe
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.deps.json
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.runtimeconfig.json
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Json.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.WindowsServices.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Configuration.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Console.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Debug.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventLog.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventSource.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.Messages.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceProcess.ServiceController.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.AssemblyReference.cache
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.AssemblyInfoInputs.cache
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.AssemblyInfo.cs
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.CoreCompileInputs.cache
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.CopyComplete
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.genruntimeconfig.cache
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.ResolveComReference.cache
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Extensions.Hosting.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Extensions.Logging.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Sinks.Console.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Sinks.File.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.AppContext.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Buffers.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Configuration.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Console.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Core.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.Common.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Drawing.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Memory.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Http.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Security.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Numerics.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Json.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Transactions.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Web.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Windows.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\WindowsBase.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscorlib.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\netstandard.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\clretwrc.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\clrjit.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\coreclr.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\createdump.exe
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\dbgshim.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\hostfxr.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\hostpolicy.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordaccore.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.2123.36311.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordbi.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscorrc.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\msquic.dll
+F:\Workspace\ASP.NET\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\ucrtbase.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\appsettings.Development.json
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\appsettings.json
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.exe
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.deps.json
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.runtimeconfig.json
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Json.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.WindowsServices.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Configuration.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Console.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Debug.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventLog.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventSource.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Extensions.Hosting.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Extensions.Logging.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Sinks.Console.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Sinks.File.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.Messages.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceProcess.ServiceController.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.AppContext.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Buffers.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Configuration.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Console.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Core.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.Common.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Drawing.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Memory.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Http.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Security.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Numerics.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Json.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Transactions.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Web.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Windows.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\WindowsBase.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscorlib.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\netstandard.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\clretwrc.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\clrjit.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\coreclr.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\createdump.exe
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\dbgshim.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\hostfxr.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\hostpolicy.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordaccore.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.2223.42425.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordbi.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscorrc.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\msquic.dll
+E:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\ucrtbase.dll
+E:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.AssemblyReference.cache
+E:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.ResolveComReference.cache
+E:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.AssemblyInfoInputs.cache
+E:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.AssemblyInfo.cs
+E:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.CoreCompileInputs.cache
+E:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.CopyComplete
+E:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.dll
+E:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.genruntimeconfig.cache
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\appsettings.Development.json
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\appsettings.json
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.exe
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.deps.json
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.runtimeconfig.json
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Json.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.WindowsServices.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Configuration.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Console.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Debug.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventLog.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventSource.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Extensions.Hosting.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Extensions.Logging.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Sinks.Console.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Sinks.File.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.Messages.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceProcess.ServiceController.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.AppContext.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Buffers.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Configuration.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Console.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Core.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.Common.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Drawing.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Memory.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Http.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Security.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Numerics.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Json.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Transactions.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Web.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Windows.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\WindowsBase.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscorlib.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\netstandard.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\clretwrc.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\clrjit.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\coreclr.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\createdump.exe
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\dbgshim.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\hostfxr.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\hostpolicy.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordaccore.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.2223.42425.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordbi.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscorrc.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\msquic.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\ucrtbase.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.AssemblyReference.cache
+E:\First task-c#-API\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.ResolveComReference.cache
+E:\First task-c#-API\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.GeneratedMSBuildEditorConfig.editorconfig
+E:\First task-c#-API\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.AssemblyInfoInputs.cache
+E:\First task-c#-API\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.AssemblyInfo.cs
+E:\First task-c#-API\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.CoreCompileInputs.cache
+E:\First task-c#-API\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.CopyComplete
+E:\First task-c#-API\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.dll
+E:\First task-c#-API\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.genruntimeconfig.cache
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\appsettings.Development.json
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\appsettings.json
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.exe
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.deps.json
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.runtimeconfig.json
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Json.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.WindowsServices.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Configuration.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Console.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Debug.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventLog.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventSource.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Extensions.Hosting.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Extensions.Logging.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Sinks.Console.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Sinks.File.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.Messages.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceProcess.ServiceController.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.AppContext.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Buffers.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Configuration.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Console.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Core.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.Common.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Drawing.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Memory.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Http.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Security.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Numerics.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Json.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Transactions.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Web.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Windows.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\WindowsBase.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscorlib.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\netstandard.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\clretwrc.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\clrjit.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\coreclr.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\createdump.exe
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\dbgshim.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\hostfxr.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\hostpolicy.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordaccore.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.2123.36311.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordbi.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscorrc.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\msquic.dll
+G:\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\ucrtbase.dll
+G:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.AssemblyReference.cache
+G:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.ResolveComReference.cache
+G:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.GeneratedMSBuildEditorConfig.editorconfig
+G:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.AssemblyInfoInputs.cache
+G:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.AssemblyInfo.cs
+G:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.CoreCompileInputs.cache
+G:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.CopyComplete
+G:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.dll
+G:\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.genruntimeconfig.cache
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\appsettings.Development.json
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\appsettings.json
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.exe
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.deps.json
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.runtimeconfig.json
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Download_Upload.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Json.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.WindowsServices.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Configuration.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Console.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Debug.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventLog.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventSource.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Extensions.Hosting.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Extensions.Logging.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Sinks.Console.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Serilog.Sinks.File.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.Messages.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceProcess.ServiceController.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.AppContext.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Buffers.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Collections.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Configuration.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Console.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Core.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.Common.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Data.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Drawing.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Globalization.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Linq.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Memory.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Http.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Security.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Net.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Numerics.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Reflection.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Runtime.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Security.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.Json.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Threading.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Transactions.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Web.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Windows.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.Xml.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\WindowsBase.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscorlib.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\netstandard.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\clretwrc.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\clrjit.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\coreclr.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\createdump.exe
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\dbgshim.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\hostfxr.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\hostpolicy.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordaccore.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.2223.42425.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscordbi.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\mscorrc.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\msquic.dll
+F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\win-x86\ucrtbase.dll
+F:\com\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.AssemblyReference.cache
+F:\com\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.ResolveComReference.cache
+F:\com\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.GeneratedMSBuildEditorConfig.editorconfig
+F:\com\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.AssemblyInfoInputs.cache
+F:\com\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.AssemblyInfo.cs
+F:\com\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.CoreCompileInputs.cache
+F:\com\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.csproj.CopyComplete
+F:\com\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.dll
+F:\com\Download_Upload\Download_Upload\obj\Release\net6.0\win-x86\Download_Upload.genruntimeconfig.cache

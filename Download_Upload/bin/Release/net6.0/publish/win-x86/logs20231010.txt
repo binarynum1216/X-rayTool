@@ -1,0 +1,67 @@
+2023-10-10 09:12:37.444 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 09:12:37.448 +01:00 [INF] Upload Task running at: "2023-10-10T09:12:37.4458261+01:00"
+
+2023-10-10 09:12:37.449 +01:00 [INF] result Task running at: "2023-10-10T09:12:37.4498591+01:00"
+
+2023-10-10 09:12:37.450 +01:00 [INF] Viewer Task running at: "2023-10-10T09:12:37.4507420+01:00"
+
+2023-10-10 09:12:37.451 +01:00 [INF] Download Task running at: "2023-10-10T09:12:37.4516634+01:00"
+
+2023-10-10 09:12:37.451 +01:00 [INF] Download2 Task running at: "2023-10-10T09:12:37.4517267+01:00"
+
+2023-10-10 09:12:37.479 +01:00 [INF] Hosting environment: Production
+2023-10-10 09:12:37.481 +01:00 [INF] Content root path: G:\Download_Upload\Download_Upload\bin\Release\net6.0\publish\win-x86
+2023-10-10 09:12:52.489 +01:00 [INF] Download2 Task running at: "2023-10-10T09:12:52.4890238+01:00"
+
+2023-10-10 09:12:52.489 +01:00 [INF] Download Task running at: "2023-10-10T09:12:52.4891133+01:00"
+
+2023-10-10 09:12:52.489 +01:00 [INF] Viewer Task running at: "2023-10-10T09:12:52.4890920+01:00"
+
+2023-10-10 09:26:47.134 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 09:26:47.144 +01:00 [INF] Download2 Task running at: "2023-10-10T09:26:47.1433367+01:00"
+
+2023-10-10 09:26:47.144 +01:00 [INF] Download Task running at: "2023-10-10T09:26:47.1433713+01:00"
+
+2023-10-10 09:26:47.144 +01:00 [INF] Viewer Task running at: "2023-10-10T09:26:47.1424142+01:00"
+
+2023-10-10 09:26:47.144 +01:00 [INF] Upload Task running at: "2023-10-10T09:26:47.1411046+01:00"
+
+2023-10-10 09:26:47.144 +01:00 [INF] result Task running at: "2023-10-10T09:26:47.1419079+01:00"
+
+2023-10-10 09:26:47.166 +01:00 [INF] Hosting environment: Production
+2023-10-10 09:26:47.168 +01:00 [INF] Content root path: G:\Download_Upload\Download_Upload\bin\Release\net6.0\publish\win-x86
+2023-10-10 18:26:03.477 +00:00 [FTL] The application failed to start
+System.Collections.Generic.KeyNotFoundException: The given key 'download_taskkill' was not present in the dictionary.
+   at Download_Upload.Worker.ExecuteAsync(CancellationToken stoppingToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Program.<Main>$(String[] args)
+2023-10-10 18:26:13.125 +00:00 [FTL] The application failed to start
+System.Collections.Generic.KeyNotFoundException: The given key 'download_taskkill' was not present in the dictionary.
+   at Download_Upload.Worker.ExecuteAsync(CancellationToken stoppingToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Program.<Main>$(String[] args)
+2023-10-10 18:26:43.260 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:26:43.266 +00:00 [INF] result Task running at: "2023-10-10T18:26:43.2658144+00:00"
+
+2023-10-10 18:26:43.266 +00:00 [INF] Upload Task running at: "2023-10-10T18:26:43.2623781+00:00"
+
+2023-10-10 18:26:43.267 +00:00 [INF] Viewer Task running at: "2023-10-10T18:26:43.2679167+00:00"
+
+2023-10-10 18:26:43.268 +00:00 [INF] Download2 Task running at: "2023-10-10T18:26:43.2685302+00:00"
+
+2023-10-10 18:26:43.268 +00:00 [INF] Download Task running at: "2023-10-10T18:26:43.2686609+00:00"
+
+2023-10-10 18:26:43.295 +00:00 [INF] Hosting environment: Production
+2023-10-10 18:26:43.297 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload\bin\Release\net6.0\publish\win-x86
+2023-10-10 18:26:58.304 +00:00 [INF] Download Task running at: "2023-10-10T18:26:58.3039981+00:00"
+
+2023-10-10 18:26:58.305 +00:00 [INF] result Task running at: "2023-10-10T18:26:58.3054968+00:00"
+
+2023-10-10 18:27:00.399 +00:00 [INF] Download2 Task running at: "2023-10-10T18:27:00.3995652+00:00"
+
+2023-10-10 18:27:00.401 +00:00 [INF] Viewer Task running at: "2023-10-10T18:27:00.4010186+00:00"
+

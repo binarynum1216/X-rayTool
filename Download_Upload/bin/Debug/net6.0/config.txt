@@ -1,0 +1,31 @@
+download_interval=15
+download_url= https://www.vetprax.is/xray/v1/job/ben2/649735606ba4166ef8f9c3150e4a4e9d
+download_folder=C:\download
+download_call=C:\Windows\notepad.exe -gdt 
+C:\download\#file#
+download_encoding=ISO-8859-15
+download_interval2=15
+download_url2=https://www.vetprax.is/xray/v1/job/ben2/649735606ba4166ef8f9c3150e4a4e9d
+download_folder2=C:\download1
+download_call2=C:\Windows\notepad.exe -gdt 
+C:\download\#file#
+download_encoding2=UTF-8
+upload_interval=15
+upload_url=https://www.vetprax.is/xray/v1/result/ben2/649735606ba4166ef8f9c3150e4a4e9d
+upload_folder=C:\download1
+upload_file=in_.gdt
+viewer_interval=15
+viewer_url=https://www.vetprax.is/xray/v1/viewer/ben2/649735606ba4166ef8f9c3150e4a4e9d
+viewer_call=F:\Workspace\ASP.NET\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe #file#
+result_interval=15
+result_url=https://www.vetprax.is/examion/v1/thumbnail/ben2/649735606ba4166ef8f9c3150e4a4e9d
+result_folder_gdt=C:\aqs\mgserver\bild\gdtout
+result_folder_image=C:\aqs\mgserver\bild\thumb
+result_file=*.*
+result_encoding=UTF-8
+result_field_animal_id=3000
+result_field_image_file=8412
+result_field_short_report=6221
+result_delete_image=true
+logging=false
+

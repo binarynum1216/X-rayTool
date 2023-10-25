@@ -1,0 +1,21 @@
+2023-10-02 07:17:50.330 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-02 07:17:50.336 +00:00 [INF] Upload Task running at: "2023-10-02T07:17:50.3324989+00:00"
+
+2023-10-02 07:17:50.336 +00:00 [INF] result Task running at: "2023-10-02T07:17:50.3358208+00:00"
+
+2023-10-02 07:17:50.336 +00:00 [INF] Viewer Task running at: "2023-10-02T07:17:50.3361259+00:00"
+
+2023-10-02 07:17:50.337 +00:00 [INF] Download Task Start at: "2023-10-02T07:17:50.3370981+00:00"
+
+2023-10-02 07:17:50.337 +00:00 [INF] Download2 Task running at: "2023-10-02T07:17:50.3372354+00:00"
+
+2023-10-02 07:17:50.368 +00:00 [INF] Hosting environment: Production
+2023-10-02 07:17:50.369 +00:00 [INF] Content root path: E:\Download_Upload\Download_Upload\bin\Release\net6.0\publish\win-x86
+2023-10-02 07:18:05.376 +00:00 [INF] result Task running at: "2023-10-02T07:18:05.3760220+00:00"
+
+2023-10-02 07:18:05.376 +00:00 [INF] Upload Task running at: "2023-10-02T07:18:05.3760206+00:00"
+
+2023-10-02 07:18:05.390 +00:00 [INF] Download Task Start at: "2023-10-02T07:18:05.3902117+00:00"
+
+2023-10-02 07:18:05.390 +00:00 [INF] Download2 Task running at: "2023-10-02T07:18:05.3902107+00:00"
+

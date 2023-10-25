@@ -1,0 +1,925 @@
+2023-10-10 16:01:12.959 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:01:13.012 +00:00 [INF] Upload Task running at: "2023-10-10T16:01:13.0028932+00:00"
+
+2023-10-10 16:01:13.067 +00:00 [INF] result Task running at: "2023-10-10T16:01:13.0669930+00:00"
+
+2023-10-10 16:01:13.102 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:01:13.104 +00:00 [INF] Viewer Task running at: "2023-10-10T16:01:13.1042099+00:00"
+
+2023-10-10 16:01:13.105 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:01:13.105 +00:00 [INF] Download2 Task running at: "2023-10-10T16:01:13.1056177+00:00"
+
+2023-10-10 16:01:13.105 +00:00 [INF] Download Task running at: "2023-10-10T16:01:13.1056883+00:00"
+
+2023-10-10 16:01:29.552 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:01:29.557 +00:00 [INF] Viewer Task running at: "2023-10-10T16:01:29.5537186+00:00"
+
+2023-10-10 16:01:29.557 +00:00 [INF] Download2 Task running at: "2023-10-10T16:01:29.5544839+00:00"
+
+2023-10-10 16:01:29.557 +00:00 [INF] Upload Task running at: "2023-10-10T16:01:29.5531414+00:00"
+
+2023-10-10 16:01:29.557 +00:00 [INF] Download Task running at: "2023-10-10T16:01:29.5545349+00:00"
+
+2023-10-10 16:01:29.557 +00:00 [INF] result Task running at: "2023-10-10T16:01:29.5529884+00:00"
+
+2023-10-10 16:01:29.581 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:01:29.582 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:01:59.666 +00:00 [INF] Upload Task running at: "2023-10-10T16:01:59.6597387+00:00"
+
+2023-10-10 16:01:59.666 +00:00 [INF] result Task running at: "2023-10-10T16:01:59.6597067+00:00"
+
+2023-10-10 16:01:59.666 +00:00 [INF] Viewer Task running at: "2023-10-10T16:01:59.6632806+00:00"
+
+2023-10-10 16:01:59.666 +00:00 [INF] Download Task running at: "2023-10-10T16:01:59.6614077+00:00"
+
+2023-10-10 16:01:59.666 +00:00 [INF] Download2 Task running at: "2023-10-10T16:01:59.6613500+00:00"
+
+2023-10-10 16:01:59.666 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:01:59.698 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:01:59.699 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:02:08.744 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:02:08.749 +00:00 [INF] result Task running at: "2023-10-10T16:02:08.7446712+00:00"
+
+2023-10-10 16:02:08.749 +00:00 [INF] Viewer Task running at: "2023-10-10T16:02:08.7450539+00:00"
+
+2023-10-10 16:02:08.749 +00:00 [INF] Download Task running at: "2023-10-10T16:02:08.7458892+00:00"
+
+2023-10-10 16:02:08.749 +00:00 [INF] Upload Task running at: "2023-10-10T16:02:08.7446741+00:00"
+
+2023-10-10 16:02:08.749 +00:00 [INF] Download2 Task running at: "2023-10-10T16:02:08.7459383+00:00"
+
+2023-10-10 16:02:08.777 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:02:08.778 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:13:19.362 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:13:19.366 +00:00 [INF] result Task running at: "2023-10-10T16:13:19.3627409+00:00"
+
+2023-10-10 16:13:19.366 +00:00 [INF] Download2 Task running at: "2023-10-10T16:13:19.3639520+00:00"
+
+2023-10-10 16:13:19.366 +00:00 [INF] Upload Task running at: "2023-10-10T16:13:19.3625898+00:00"
+
+2023-10-10 16:13:19.367 +00:00 [INF] Viewer Task running at: "2023-10-10T16:13:19.3630346+00:00"
+
+2023-10-10 16:13:19.367 +00:00 [INF] Download Task running at: "2023-10-10T16:13:19.3641538+00:00"
+
+2023-10-10 16:13:19.426 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:13:19.428 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:15:04.549 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:15:04.554 +00:00 [INF] Download2 Task running at: "2023-10-10T16:15:04.5516934+00:00"
+
+2023-10-10 16:15:04.554 +00:00 [INF] Viewer Task running at: "2023-10-10T16:15:04.5508893+00:00"
+
+2023-10-10 16:15:04.554 +00:00 [INF] result Task running at: "2023-10-10T16:15:04.5500502+00:00"
+
+2023-10-10 16:15:04.554 +00:00 [INF] Upload Task running at: "2023-10-10T16:15:04.5500691+00:00"
+
+2023-10-10 16:15:04.554 +00:00 [INF] Download Task running at: "2023-10-10T16:15:04.5521918+00:00"
+
+2023-10-10 16:15:04.580 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:15:04.581 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:15:19.584 +00:00 [INF] Download2 Task running at: "2023-10-10T16:15:19.5842746+00:00"
+
+2023-10-10 16:15:19.584 +00:00 [INF] Download Task running at: "2023-10-10T16:15:19.5842731+00:00"
+
+2023-10-10 16:15:19.584 +00:00 [INF] Viewer Task running at: "2023-10-10T16:15:19.5842733+00:00"
+
+2023-10-10 16:15:19.585 +00:00 [INF] result Task running at: "2023-10-10T16:15:19.5854786+00:00"
+
+2023-10-10 16:15:34.581 +00:00 [INF] Download Task running at: "2023-10-10T16:15:34.5815349+00:00"
+
+2023-10-10 16:15:34.581 +00:00 [INF] Download2 Task running at: "2023-10-10T16:15:34.5815346+00:00"
+
+2023-10-10 16:15:34.615 +00:00 [INF] Viewer Task running at: "2023-10-10T16:15:34.6152261+00:00"
+
+2023-10-10 16:15:34.615 +00:00 [INF] result Task running at: "2023-10-10T16:15:34.6153217+00:00"
+
+2023-10-10 16:17:00.524 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:17:00.529 +00:00 [INF] Download2 Task running at: "2023-10-10T16:17:00.5259259+00:00"
+
+2023-10-10 16:17:00.529 +00:00 [INF] Download Task running at: "2023-10-10T16:17:00.5260799+00:00"
+
+2023-10-10 16:17:00.529 +00:00 [INF] Upload Task running at: "2023-10-10T16:17:00.5246820+00:00"
+
+2023-10-10 16:17:00.529 +00:00 [INF] result Task running at: "2023-10-10T16:17:00.5246334+00:00"
+
+2023-10-10 16:17:00.529 +00:00 [INF] Viewer Task running at: "2023-10-10T16:17:00.5251496+00:00"
+
+2023-10-10 16:17:00.553 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:17:00.554 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:17:15.568 +00:00 [INF] Download Task running at: "2023-10-10T16:17:15.5683518+00:00"
+
+2023-10-10 16:17:15.568 +00:00 [INF] Viewer Task running at: "2023-10-10T16:17:15.5683537+00:00"
+
+2023-10-10 16:17:15.568 +00:00 [INF] Download2 Task running at: "2023-10-10T16:17:15.5683501+00:00"
+
+2023-10-10 16:17:15.569 +00:00 [INF] result Task running at: "2023-10-10T16:17:15.5695403+00:00"
+
+2023-10-10 16:19:37.039 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:19:37.043 +00:00 [INF] Download Task running at: "2023-10-10T16:19:37.0429053+00:00"
+
+2023-10-10 16:19:37.043 +00:00 [INF] Upload Task running at: "2023-10-10T16:19:37.0380316+00:00"
+
+2023-10-10 16:19:37.046 +00:00 [INF] Viewer Task running at: "2023-10-10T16:19:37.0462109+00:00"
+
+2023-10-10 16:19:37.047 +00:00 [INF] Download2 Task running at: "2023-10-10T16:19:37.0472507+00:00"
+
+2023-10-10 16:19:37.047 +00:00 [INF] result Task running at: "2023-10-10T16:19:37.0477419+00:00"
+
+2023-10-10 16:19:37.073 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:19:37.074 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:19:52.069 +00:00 [INF] Upload Task running at: "2023-10-10T16:19:52.0693995+00:00"
+
+2023-10-10 16:19:52.069 +00:00 [INF] result Task running at: "2023-10-10T16:19:52.0694337+00:00"
+
+2023-10-10 16:19:52.083 +00:00 [INF] Download2 Task running at: "2023-10-10T16:19:52.0831416+00:00"
+
+2023-10-10 16:19:52.083 +00:00 [INF] Download Task running at: "2023-10-10T16:19:52.0831350+00:00"
+
+2023-10-10 16:19:52.083 +00:00 [INF] Viewer Task running at: "2023-10-10T16:19:52.0831362+00:00"
+
+2023-10-10 16:20:07.067 +00:00 [INF] Upload Task running at: "2023-10-10T16:20:07.0670884+00:00"
+
+2023-10-10 16:20:07.067 +00:00 [INF] result Task running at: "2023-10-10T16:20:07.0670953+00:00"
+
+2023-10-10 16:20:07.082 +00:00 [INF] Download Task running at: "2023-10-10T16:20:07.0824592+00:00"
+
+2023-10-10 16:20:07.082 +00:00 [INF] Viewer Task running at: "2023-10-10T16:20:07.0824933+00:00"
+
+2023-10-10 16:20:07.082 +00:00 [INF] Download2 Task running at: "2023-10-10T16:20:07.0824996+00:00"
+
+2023-10-10 16:21:52.083 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:21:52.088 +00:00 [INF] Download2 Task running at: "2023-10-10T16:21:52.0856991+00:00"
+
+2023-10-10 16:21:52.088 +00:00 [INF] Download Task running at: "2023-10-10T16:21:52.0859644+00:00"
+
+2023-10-10 16:21:52.088 +00:00 [INF] result Task running at: "2023-10-10T16:21:52.0839878+00:00"
+
+2023-10-10 16:21:52.088 +00:00 [INF] Upload Task running at: "2023-10-10T16:21:52.0840553+00:00"
+
+2023-10-10 16:21:52.088 +00:00 [INF] Viewer Task running at: "2023-10-10T16:21:52.0848281+00:00"
+
+2023-10-10 16:21:52.115 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:21:52.117 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:22:07.131 +00:00 [INF] Download2 Task running at: "2023-10-10T16:22:07.1309222+00:00"
+
+2023-10-10 16:22:07.131 +00:00 [INF] Download Task running at: "2023-10-10T16:22:07.1309195+00:00"
+
+2023-10-10 16:22:07.131 +00:00 [INF] Viewer Task running at: "2023-10-10T16:22:07.1309306+00:00"
+
+2023-10-10 16:22:07.132 +00:00 [INF] result Task running at: "2023-10-10T16:22:07.1321740+00:00"
+
+2023-10-10 16:23:19.908 +00:00 [INF] Upload Task running at: "2023-10-10T16:23:19.9018346+00:00"
+
+2023-10-10 16:23:19.908 +00:00 [INF] result Task running at: "2023-10-10T16:23:19.9018346+00:00"
+
+2023-10-10 16:23:19.910 +00:00 [INF] Viewer Task running at: "2023-10-10T16:23:19.9108406+00:00"
+
+2023-10-10 16:23:19.908 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:23:19.908 +00:00 [INF] Download2 Task running at: "2023-10-10T16:23:19.9066610+00:00"
+
+2023-10-10 16:23:19.909 +00:00 [INF] Download Task running at: "2023-10-10T16:23:19.9098857+00:00"
+
+2023-10-10 16:23:19.943 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:23:19.943 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:23:34.958 +00:00 [INF] Viewer Task running at: "2023-10-10T16:23:34.9586324+00:00"
+
+2023-10-10 16:23:34.958 +00:00 [INF] Download2 Task running at: "2023-10-10T16:23:34.9586380+00:00"
+
+2023-10-10 16:23:34.958 +00:00 [INF] Download Task running at: "2023-10-10T16:23:34.9586318+00:00"
+
+2023-10-10 16:23:34.959 +00:00 [INF] result Task running at: "2023-10-10T16:23:34.9598456+00:00"
+
+2023-10-10 16:23:49.484 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:23:49.488 +00:00 [INF] result Task running at: "2023-10-10T16:23:49.4847528+00:00"
+
+2023-10-10 16:23:49.488 +00:00 [INF] Download Task running at: "2023-10-10T16:23:49.4864103+00:00"
+
+2023-10-10 16:23:49.488 +00:00 [INF] Viewer Task running at: "2023-10-10T16:23:49.4853755+00:00"
+
+2023-10-10 16:23:49.488 +00:00 [INF] Download2 Task running at: "2023-10-10T16:23:49.4861370+00:00"
+
+2023-10-10 16:23:49.488 +00:00 [INF] Upload Task running at: "2023-10-10T16:23:49.4847789+00:00"
+
+2023-10-10 16:23:49.516 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:23:49.519 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:23:56.008 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:23:56.008 +00:00 [INF] Download Task running at: "2023-10-10T16:23:56.0025619+00:00"
+
+2023-10-10 16:23:56.008 +00:00 [INF] result Task running at: "2023-10-10T16:23:56.0006212+00:00"
+
+2023-10-10 16:23:56.008 +00:00 [INF] Download2 Task running at: "2023-10-10T16:23:56.0022905+00:00"
+
+2023-10-10 16:23:56.008 +00:00 [INF] Upload Task running at: "2023-10-10T16:23:56.0006204+00:00"
+
+2023-10-10 16:23:56.008 +00:00 [INF] Viewer Task running at: "2023-10-10T16:23:56.0012267+00:00"
+
+2023-10-10 16:23:56.039 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:23:56.040 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:24:05.931 +00:00 [INF] Upload Task running at: "2023-10-10T16:24:05.9260579+00:00"
+
+2023-10-10 16:24:05.931 +00:00 [INF] Viewer Task running at: "2023-10-10T16:24:05.9301230+00:00"
+
+2023-10-10 16:24:05.931 +00:00 [INF] result Task running at: "2023-10-10T16:24:05.9258650+00:00"
+
+2023-10-10 16:24:05.931 +00:00 [INF] Download2 Task running at: "2023-10-10T16:24:05.9276162+00:00"
+
+2023-10-10 16:24:05.925 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:24:05.935 +00:00 [INF] Download Task running at: "2023-10-10T16:24:05.9351232+00:00"
+
+2023-10-10 16:24:05.962 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:24:05.964 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:24:15.838 +00:00 [INF] result Task running at: "2023-10-10T16:24:15.8384263+00:00"
+
+2023-10-10 16:24:15.836 +00:00 [INF] Upload Task running at: "2023-10-10T16:24:15.8334892+00:00"
+
+2023-10-10 16:24:15.836 +00:00 [INF] Download Task running at: "2023-10-10T16:24:15.8295948+00:00"
+
+2023-10-10 16:24:15.836 +00:00 [INF] Download2 Task running at: "2023-10-10T16:24:15.8294244+00:00"
+
+2023-10-10 16:24:15.836 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:24:15.836 +00:00 [INF] Viewer Task running at: "2023-10-10T16:24:15.8287193+00:00"
+
+2023-10-10 16:24:15.870 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:24:15.870 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:24:30.881 +00:00 [INF] Viewer Task running at: "2023-10-10T16:24:30.8814043+00:00"
+
+2023-10-10 16:24:30.881 +00:00 [INF] Download Task running at: "2023-10-10T16:24:30.8814020+00:00"
+
+2023-10-10 16:24:30.881 +00:00 [INF] Download2 Task running at: "2023-10-10T16:24:30.8814109+00:00"
+
+2023-10-10 16:24:30.882 +00:00 [INF] result Task running at: "2023-10-10T16:24:30.8826615+00:00"
+
+2023-10-10 16:26:28.409 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:26:28.414 +00:00 [INF] Download2 Task running at: "2023-10-10T16:26:28.4110576+00:00"
+
+2023-10-10 16:26:28.414 +00:00 [INF] Viewer Task running at: "2023-10-10T16:26:28.4102930+00:00"
+
+2023-10-10 16:26:28.414 +00:00 [INF] Upload Task running at: "2023-10-10T16:26:28.4097345+00:00"
+
+2023-10-10 16:26:28.414 +00:00 [INF] Download Task running at: "2023-10-10T16:26:28.4115641+00:00"
+
+2023-10-10 16:26:28.414 +00:00 [INF] result Task running at: "2023-10-10T16:26:28.4097271+00:00"
+
+2023-10-10 16:26:28.439 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:26:28.440 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:27:11.493 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:27:11.497 +00:00 [INF] Download Task running at: "2023-10-10T16:27:11.4947091+00:00"
+
+2023-10-10 16:27:11.497 +00:00 [INF] Download2 Task running at: "2023-10-10T16:27:11.4942670+00:00"
+
+2023-10-10 16:27:11.497 +00:00 [INF] result Task running at: "2023-10-10T16:27:11.4933857+00:00"
+
+2023-10-10 16:27:11.497 +00:00 [INF] Upload Task running at: "2023-10-10T16:27:11.4934432+00:00"
+
+2023-10-10 16:27:11.497 +00:00 [INF] Viewer Task running at: "2023-10-10T16:27:11.4935110+00:00"
+
+2023-10-10 16:27:11.523 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:27:11.525 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:27:26.537 +00:00 [INF] Download Task running at: "2023-10-10T16:27:26.5370451+00:00"
+
+2023-10-10 16:27:26.537 +00:00 [INF] Download2 Task running at: "2023-10-10T16:27:26.5370418+00:00"
+
+2023-10-10 16:27:26.537 +00:00 [INF] Viewer Task running at: "2023-10-10T16:27:26.5370556+00:00"
+
+2023-10-10 16:27:26.538 +00:00 [INF] result Task running at: "2023-10-10T16:27:26.5384740+00:00"
+
+2023-10-10 16:28:03.533 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:28:03.533 +00:00 [INF] Viewer Task running at: "2023-10-10T16:28:03.5282999+00:00"
+
+2023-10-10 16:28:03.533 +00:00 [INF] Upload Task running at: "2023-10-10T16:28:03.5275779+00:00"
+
+2023-10-10 16:28:03.533 +00:00 [INF] Download2 Task running at: "2023-10-10T16:28:03.5310450+00:00"
+
+2023-10-10 16:28:03.533 +00:00 [INF] Download Task running at: "2023-10-10T16:28:03.5288828+00:00"
+
+2023-10-10 16:28:03.533 +00:00 [INF] result Task running at: "2023-10-10T16:28:03.5273106+00:00"
+
+2023-10-10 16:28:03.563 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:28:03.564 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:28:18.568 +00:00 [INF] Download Task running at: "2023-10-10T16:28:18.5687658+00:00"
+
+2023-10-10 16:28:18.568 +00:00 [INF] Viewer Task running at: "2023-10-10T16:28:18.5687656+00:00"
+
+2023-10-10 16:28:18.568 +00:00 [INF] Download2 Task running at: "2023-10-10T16:28:18.5687787+00:00"
+
+2023-10-10 16:28:18.570 +00:00 [INF] result Task running at: "2023-10-10T16:28:18.5699882+00:00"
+
+2023-10-10 16:28:33.669 +00:00 [INF] Viewer Task running at: "2023-10-10T16:28:33.6691295+00:00"
+
+2023-10-10 16:28:33.669 +00:00 [INF] result Task running at: "2023-10-10T16:28:33.6642312+00:00"
+
+2023-10-10 16:28:33.664 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:28:33.669 +00:00 [INF] Download2 Task running at: "2023-10-10T16:28:33.6655097+00:00"
+
+2023-10-10 16:28:33.669 +00:00 [INF] Upload Task running at: "2023-10-10T16:28:33.6655537+00:00"
+
+2023-10-10 16:28:33.670 +00:00 [INF] Download Task running at: "2023-10-10T16:28:33.6702788+00:00"
+
+2023-10-10 16:28:33.702 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:28:33.703 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:28:48.709 +00:00 [INF] Viewer Task running at: "2023-10-10T16:28:48.7094728+00:00"
+
+2023-10-10 16:28:48.709 +00:00 [INF] Download2 Task running at: "2023-10-10T16:28:48.7094718+00:00"
+
+2023-10-10 16:28:48.710 +00:00 [INF] result Task running at: "2023-10-10T16:28:48.7106816+00:00"
+
+2023-10-10 16:29:03.709 +00:00 [INF] Download2 Task running at: "2023-10-10T16:29:03.7089679+00:00"
+
+2023-10-10 16:29:03.709 +00:00 [INF] Viewer Task running at: "2023-10-10T16:29:03.7092117+00:00"
+
+2023-10-10 16:29:03.724 +00:00 [INF] result Task running at: "2023-10-10T16:29:03.7245433+00:00"
+
+2023-10-10 16:29:18.709 +00:00 [INF] Download2 Task running at: "2023-10-10T16:29:18.7097997+00:00"
+
+2023-10-10 16:29:18.709 +00:00 [INF] Viewer Task running at: "2023-10-10T16:29:18.7097696+00:00"
+
+2023-10-10 16:29:18.739 +00:00 [INF] result Task running at: "2023-10-10T16:29:18.7398567+00:00"
+
+2023-10-10 16:29:52.863 +00:00 [INF] Upload Task running at: "2023-10-10T16:29:52.8587503+00:00"
+
+2023-10-10 16:29:52.863 +00:00 [INF] Viewer Task running at: "2023-10-10T16:29:52.8624609+00:00"
+
+2023-10-10 16:29:52.863 +00:00 [INF] result Task running at: "2023-10-10T16:29:52.8585292+00:00"
+
+2023-10-10 16:29:52.863 +00:00 [INF] Download2 Task running at: "2023-10-10T16:29:52.8633653+00:00"
+
+2023-10-10 16:29:52.863 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:29:52.867 +00:00 [INF] Download Task running at: "2023-10-10T16:29:52.8676561+00:00"
+
+2023-10-10 16:29:52.895 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:29:52.896 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:30:07.912 +00:00 [INF] Download Task running at: "2023-10-10T16:30:07.9127032+00:00"
+
+2023-10-10 16:30:07.912 +00:00 [INF] Viewer Task running at: "2023-10-10T16:30:07.9127004+00:00"
+
+2023-10-10 16:30:07.912 +00:00 [INF] Download2 Task running at: "2023-10-10T16:30:07.9126950+00:00"
+
+2023-10-10 16:30:07.913 +00:00 [INF] result Task running at: "2023-10-10T16:30:07.9139108+00:00"
+
+2023-10-10 16:30:41.835 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:30:41.840 +00:00 [INF] Upload Task running at: "2023-10-10T16:30:41.8355758+00:00"
+
+2023-10-10 16:30:41.840 +00:00 [INF] Download2 Task running at: "2023-10-10T16:30:41.8372309+00:00"
+
+2023-10-10 16:30:41.840 +00:00 [INF] Download Task running at: "2023-10-10T16:30:41.8376489+00:00"
+
+2023-10-10 16:30:41.840 +00:00 [INF] result Task running at: "2023-10-10T16:30:41.8355622+00:00"
+
+2023-10-10 16:30:41.840 +00:00 [INF] Viewer Task running at: "2023-10-10T16:30:41.8364442+00:00"
+
+2023-10-10 16:30:41.866 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:30:41.868 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:30:56.881 +00:00 [INF] Download2 Task running at: "2023-10-10T16:30:56.8810933+00:00"
+
+2023-10-10 16:30:56.881 +00:00 [INF] Viewer Task running at: "2023-10-10T16:30:56.8810939+00:00"
+
+2023-10-10 16:30:56.882 +00:00 [INF] result Task running at: "2023-10-10T16:30:56.8823000+00:00"
+
+2023-10-10 16:31:11.896 +00:00 [INF] result Task running at: "2023-10-10T16:31:11.8966837+00:00"
+
+2023-10-10 16:31:11.896 +00:00 [INF] Viewer Task running at: "2023-10-10T16:31:11.8966797+00:00"
+
+2023-10-10 16:31:11.896 +00:00 [INF] Download2 Task running at: "2023-10-10T16:31:11.8966721+00:00"
+
+2023-10-10 16:31:26.911 +00:00 [INF] Download2 Task running at: "2023-10-10T16:31:26.9116417+00:00"
+
+2023-10-10 16:31:26.911 +00:00 [INF] result Task running at: "2023-10-10T16:31:26.9116410+00:00"
+
+2023-10-10 16:31:26.911 +00:00 [INF] Viewer Task running at: "2023-10-10T16:31:26.9118591+00:00"
+
+2023-10-10 16:31:47.806 +00:00 [INF] Download2 Task running at: "2023-10-10T16:31:47.8023540+00:00"
+
+2023-10-10 16:31:47.806 +00:00 [INF] Viewer Task running at: "2023-10-10T16:31:47.8017763+00:00"
+
+2023-10-10 16:31:47.806 +00:00 [INF] Download Task running at: "2023-10-10T16:31:47.8061268+00:00"
+
+2023-10-10 16:31:47.806 +00:00 [INF] Upload Task running at: "2023-10-10T16:31:47.8010282+00:00"
+
+2023-10-10 16:31:47.806 +00:00 [INF] result Task running at: "2023-10-10T16:31:47.8009221+00:00"
+
+2023-10-10 16:31:47.805 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:31:47.839 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:31:47.841 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:32:00.954 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:32:00.959 +00:00 [INF] Viewer Task running at: "2023-10-10T16:32:00.9553084+00:00"
+
+2023-10-10 16:32:00.959 +00:00 [INF] Download2 Task running at: "2023-10-10T16:32:00.9561810+00:00"
+
+2023-10-10 16:32:00.959 +00:00 [INF] result Task running at: "2023-10-10T16:32:00.9549356+00:00"
+
+2023-10-10 16:32:00.959 +00:00 [INF] Download Task running at: "2023-10-10T16:32:00.9565451+00:00"
+
+2023-10-10 16:32:00.959 +00:00 [INF] Upload Task running at: "2023-10-10T16:32:00.9548288+00:00"
+
+2023-10-10 16:32:00.985 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:32:00.987 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:35:27.762 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:35:27.767 +00:00 [INF] result Task running at: "2023-10-10T16:35:27.7624244+00:00"
+
+2023-10-10 16:35:27.767 +00:00 [INF] Upload Task running at: "2023-10-10T16:35:27.7625588+00:00"
+
+2023-10-10 16:35:27.767 +00:00 [INF] Viewer Task running at: "2023-10-10T16:35:27.7656113+00:00"
+
+2023-10-10 16:35:27.767 +00:00 [INF] Download2 Task running at: "2023-10-10T16:35:27.7672720+00:00"
+
+2023-10-10 16:35:27.767 +00:00 [INF] Download Task running at: "2023-10-10T16:35:27.7644817+00:00"
+
+2023-10-10 16:35:27.792 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:35:27.793 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:35:42.803 +00:00 [INF] Viewer Task running at: "2023-10-10T16:35:42.8031237+00:00"
+
+2023-10-10 16:35:42.803 +00:00 [INF] Download2 Task running at: "2023-10-10T16:35:42.8031238+00:00"
+
+2023-10-10 16:35:42.804 +00:00 [INF] result Task running at: "2023-10-10T16:35:42.8043471+00:00"
+
+2023-10-10 16:36:14.656 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:36:14.660 +00:00 [INF] Viewer Task running at: "2023-10-10T16:36:14.6570601+00:00"
+
+2023-10-10 16:36:14.660 +00:00 [INF] Download2 Task running at: "2023-10-10T16:36:14.6576797+00:00"
+
+2023-10-10 16:36:14.660 +00:00 [INF] result Task running at: "2023-10-10T16:36:14.6566967+00:00"
+
+2023-10-10 16:36:14.660 +00:00 [INF] Upload Task running at: "2023-10-10T16:36:14.6566278+00:00"
+
+2023-10-10 16:36:14.660 +00:00 [INF] Download Task running at: "2023-10-10T16:36:14.6580230+00:00"
+
+2023-10-10 16:36:14.684 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:36:14.686 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:36:38.600 +00:00 [INF] result Task running at: "2023-10-10T16:36:38.5953442+00:00"
+
+2023-10-10 16:36:38.594 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:36:38.600 +00:00 [INF] Upload Task running at: "2023-10-10T16:36:38.5954334+00:00"
+
+2023-10-10 16:36:38.600 +00:00 [INF] Viewer Task running at: "2023-10-10T16:36:38.6000487+00:00"
+
+2023-10-10 16:36:38.600 +00:00 [INF] Download2 Task running at: "2023-10-10T16:36:38.5972770+00:00"
+
+2023-10-10 16:36:38.603 +00:00 [INF] Download Task running at: "2023-10-10T16:36:38.6038874+00:00"
+
+2023-10-10 16:36:38.629 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:36:38.630 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:41:22.968 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:41:22.972 +00:00 [INF] Viewer Task running at: "2023-10-10T16:41:22.9686511+00:00"
+
+2023-10-10 16:41:22.972 +00:00 [INF] Upload Task running at: "2023-10-10T16:41:22.9679804+00:00"
+
+2023-10-10 16:41:22.972 +00:00 [INF] Download Task running at: "2023-10-10T16:41:22.9698915+00:00"
+
+2023-10-10 16:41:22.972 +00:00 [INF] result Task running at: "2023-10-10T16:41:22.9679752+00:00"
+
+2023-10-10 16:41:22.972 +00:00 [INF] Download2 Task running at: "2023-10-10T16:41:22.9694543+00:00"
+
+2023-10-10 16:41:22.998 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:41:22.999 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:41:37.990 +00:00 [INF] Download2 Task running at: "2023-10-10T16:41:37.9903413+00:00"
+
+2023-10-10 16:41:37.990 +00:00 [INF] Viewer Task running at: "2023-10-10T16:41:37.9902397+00:00"
+
+2023-10-10 16:41:37.991 +00:00 [INF] result Task running at: "2023-10-10T16:41:37.9916726+00:00"
+
+2023-10-10 16:41:38.005 +00:00 [INF] Download Task running at: "2023-10-10T16:41:38.0055914+00:00"
+
+2023-10-10 16:41:43.595 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:41:43.600 +00:00 [INF] Download2 Task running at: "2023-10-10T16:41:43.5965810+00:00"
+
+2023-10-10 16:41:43.600 +00:00 [INF] result Task running at: "2023-10-10T16:41:43.5954128+00:00"
+
+2023-10-10 16:41:43.600 +00:00 [INF] Viewer Task running at: "2023-10-10T16:41:43.5956435+00:00"
+
+2023-10-10 16:41:43.600 +00:00 [INF] Upload Task running at: "2023-10-10T16:41:43.5954925+00:00"
+
+2023-10-10 16:41:43.600 +00:00 [INF] Download Task running at: "2023-10-10T16:41:43.5969380+00:00"
+
+2023-10-10 16:41:43.624 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:41:43.626 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:41:58.631 +00:00 [INF] Download2 Task running at: "2023-10-10T16:41:58.6312168+00:00"
+
+2023-10-10 16:41:58.631 +00:00 [INF] Viewer Task running at: "2023-10-10T16:41:58.6312186+00:00"
+
+2023-10-10 16:41:58.632 +00:00 [INF] result Task running at: "2023-10-10T16:41:58.6328570+00:00"
+
+2023-10-10 16:49:40.948 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:49:40.953 +00:00 [INF] Download Task running at: "2023-10-10T16:49:40.9508941+00:00"
+
+2023-10-10 16:49:40.953 +00:00 [INF] result Task running at: "2023-10-10T16:49:40.9491720+00:00"
+
+2023-10-10 16:49:40.953 +00:00 [INF] Download2 Task running at: "2023-10-10T16:49:40.9506077+00:00"
+
+2023-10-10 16:49:40.953 +00:00 [INF] Upload Task running at: "2023-10-10T16:49:40.9492035+00:00"
+
+2023-10-10 16:49:40.953 +00:00 [INF] Viewer Task running at: "2023-10-10T16:49:40.9498487+00:00"
+
+2023-10-10 16:49:40.979 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:49:40.981 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:49:55.990 +00:00 [INF] Viewer Task running at: "2023-10-10T16:49:55.9902853+00:00"
+
+2023-10-10 16:49:55.990 +00:00 [INF] Download2 Task running at: "2023-10-10T16:49:55.9901496+00:00"
+
+2023-10-10 16:49:55.990 +00:00 [INF] Download Task running at: "2023-10-10T16:49:55.9901345+00:00"
+
+2023-10-10 16:49:55.991 +00:00 [INF] result Task running at: "2023-10-10T16:49:55.9914606+00:00"
+
+2023-10-10 16:50:10.981 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:50:10.986 +00:00 [INF] Upload Task running at: "2023-10-10T16:50:10.9821943+00:00"
+
+2023-10-10 16:50:10.986 +00:00 [INF] Viewer Task running at: "2023-10-10T16:50:10.9825640+00:00"
+
+2023-10-10 16:50:10.986 +00:00 [INF] result Task running at: "2023-10-10T16:50:10.9823299+00:00"
+
+2023-10-10 16:50:10.986 +00:00 [INF] Download2 Task running at: "2023-10-10T16:50:10.9832494+00:00"
+
+2023-10-10 16:50:10.986 +00:00 [INF] Download Task running at: "2023-10-10T16:50:10.9838473+00:00"
+
+2023-10-10 16:50:11.010 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:50:11.012 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:50:26.021 +00:00 [INF] Download2 Task running at: "2023-10-10T16:50:26.0217701+00:00"
+
+2023-10-10 16:50:26.022 +00:00 [INF] Viewer Task running at: "2023-10-10T16:50:26.0217762+00:00"
+
+2023-10-10 16:50:26.023 +00:00 [INF] result Task running at: "2023-10-10T16:50:26.0235308+00:00"
+
+2023-10-10 16:50:28.056 +00:00 [INF] Download Task running at: "2023-10-10T16:50:28.0569067+00:00"
+
+2023-10-10 16:51:43.666 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:51:43.671 +00:00 [INF] Download2 Task running at: "2023-10-10T16:51:43.6685840+00:00"
+
+2023-10-10 16:51:43.671 +00:00 [INF] Upload Task running at: "2023-10-10T16:51:43.6675879+00:00"
+
+2023-10-10 16:51:43.671 +00:00 [INF] Viewer Task running at: "2023-10-10T16:51:43.6678145+00:00"
+
+2023-10-10 16:51:43.671 +00:00 [INF] result Task running at: "2023-10-10T16:51:43.6675688+00:00"
+
+2023-10-10 16:51:43.671 +00:00 [INF] Download Task running at: "2023-10-10T16:51:43.6690765+00:00"
+
+2023-10-10 16:51:43.696 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:51:43.698 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:51:58.709 +00:00 [INF] Viewer Task running at: "2023-10-10T16:51:58.7091547+00:00"
+
+2023-10-10 16:51:58.709 +00:00 [INF] Download2 Task running at: "2023-10-10T16:51:58.7092523+00:00"
+
+2023-10-10 16:51:58.709 +00:00 [INF] Download Task running at: "2023-10-10T16:51:58.7091517+00:00"
+
+2023-10-10 16:51:58.710 +00:00 [INF] result Task running at: "2023-10-10T16:51:58.7103917+00:00"
+
+2023-10-10 16:57:11.147 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:57:11.152 +00:00 [INF] result Task running at: "2023-10-10T16:57:11.1477089+00:00"
+
+2023-10-10 16:57:11.152 +00:00 [INF] Upload Task running at: "2023-10-10T16:57:11.1476807+00:00"
+
+2023-10-10 16:57:11.152 +00:00 [INF] Viewer Task running at: "2023-10-10T16:57:11.1479892+00:00"
+
+2023-10-10 16:57:11.152 +00:00 [INF] Download2 Task running at: "2023-10-10T16:57:11.1487222+00:00"
+
+2023-10-10 16:57:11.152 +00:00 [INF] Download Task running at: "2023-10-10T16:57:11.1490836+00:00"
+
+2023-10-10 16:57:11.177 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:57:11.179 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:59:28.516 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:59:28.521 +00:00 [INF] result Task running at: "2023-10-10T16:59:28.5170203+00:00"
+
+2023-10-10 16:59:28.521 +00:00 [INF] Download2 Task running at: "2023-10-10T16:59:28.5180220+00:00"
+
+2023-10-10 16:59:28.521 +00:00 [INF] Download Task running at: "2023-10-10T16:59:28.5183612+00:00"
+
+2023-10-10 16:59:28.521 +00:00 [INF] Upload Task running at: "2023-10-10T16:59:28.5169434+00:00"
+
+2023-10-10 16:59:28.521 +00:00 [INF] Viewer Task running at: "2023-10-10T16:59:28.5172847+00:00"
+
+2023-10-10 16:59:28.546 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:59:28.547 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 16:59:43.551 +00:00 [INF] Download2 Task running at: "2023-10-10T16:59:43.5510426+00:00"
+
+2023-10-10 16:59:43.551 +00:00 [INF] Download Task running at: "2023-10-10T16:59:43.5507930+00:00"
+
+2023-10-10 16:59:43.551 +00:00 [INF] Viewer Task running at: "2023-10-10T16:59:43.5507929+00:00"
+
+2023-10-10 16:59:43.552 +00:00 [INF] result Task running at: "2023-10-10T16:59:43.5524967+00:00"
+
+2023-10-10 16:59:58.688 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 16:59:58.692 +00:00 [INF] result Task running at: "2023-10-10T16:59:58.6884301+00:00"
+
+2023-10-10 16:59:58.692 +00:00 [INF] Upload Task running at: "2023-10-10T16:59:58.6884374+00:00"
+
+2023-10-10 16:59:58.692 +00:00 [INF] Download2 Task running at: "2023-10-10T16:59:58.6897546+00:00"
+
+2023-10-10 16:59:58.692 +00:00 [INF] Download Task running at: "2023-10-10T16:59:58.6900797+00:00"
+
+2023-10-10 16:59:58.693 +00:00 [INF] Viewer Task running at: "2023-10-10T16:59:58.6889853+00:00"
+
+2023-10-10 16:59:58.716 +00:00 [INF] Hosting environment: Development
+2023-10-10 16:59:58.717 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 17:00:13.724 +00:00 [INF] Download Task running at: "2023-10-10T17:00:13.7243630+00:00"
+
+2023-10-10 17:00:13.724 +00:00 [INF] Download2 Task running at: "2023-10-10T17:00:13.7244340+00:00"
+
+2023-10-10 17:00:13.724 +00:00 [INF] Viewer Task running at: "2023-10-10T17:00:13.7244957+00:00"
+
+2023-10-10 17:00:13.725 +00:00 [INF] result Task running at: "2023-10-10T17:00:13.7257071+00:00"
+
+2023-10-10 17:01:17.446 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 17:01:17.451 +00:00 [INF] result Task running at: "2023-10-10T17:01:17.4470684+00:00"
+
+2023-10-10 17:01:17.451 +00:00 [INF] Viewer Task running at: "2023-10-10T17:01:17.4473661+00:00"
+
+2023-10-10 17:01:17.451 +00:00 [INF] Download2 Task running at: "2023-10-10T17:01:17.4480700+00:00"
+
+2023-10-10 17:01:17.451 +00:00 [INF] Upload Task running at: "2023-10-10T17:01:17.4470154+00:00"
+
+2023-10-10 17:01:17.451 +00:00 [INF] Download Task running at: "2023-10-10T17:01:17.4484850+00:00"
+
+2023-10-10 17:01:17.477 +00:00 [INF] Hosting environment: Development
+2023-10-10 17:01:17.479 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 17:01:39.685 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 17:01:39.690 +00:00 [INF] Download Task running at: "2023-10-10T17:01:39.6876328+00:00"
+
+2023-10-10 17:01:39.690 +00:00 [INF] Viewer Task running at: "2023-10-10T17:01:39.6864629+00:00"
+
+2023-10-10 17:01:39.690 +00:00 [INF] Upload Task running at: "2023-10-10T17:01:39.6859593+00:00"
+
+2023-10-10 17:01:39.690 +00:00 [INF] Download2 Task running at: "2023-10-10T17:01:39.6873196+00:00"
+
+2023-10-10 17:01:39.690 +00:00 [INF] result Task running at: "2023-10-10T17:01:39.6859744+00:00"
+
+2023-10-10 17:01:39.714 +00:00 [INF] Hosting environment: Development
+2023-10-10 17:01:39.715 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 17:03:33.384 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 17:03:33.388 +00:00 [INF] result Task running at: "2023-10-10T17:03:33.3837038+00:00"
+
+2023-10-10 17:03:33.388 +00:00 [INF] Download2 Task running at: "2023-10-10T17:03:33.3856082+00:00"
+
+2023-10-10 17:03:33.388 +00:00 [INF] Upload Task running at: "2023-10-10T17:03:33.3837029+00:00"
+
+2023-10-10 17:03:33.388 +00:00 [INF] Viewer Task running at: "2023-10-10T17:03:33.3839391+00:00"
+
+2023-10-10 17:03:33.389 +00:00 [INF] Download Task running at: "2023-10-10T17:03:33.3897686+00:00"
+
+2023-10-10 17:03:33.414 +00:00 [INF] Hosting environment: Development
+2023-10-10 17:03:33.415 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 17:03:48.012 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 17:03:48.019 +00:00 [INF] Download Task running at: "2023-10-10T17:03:48.0147947+00:00"
+
+2023-10-10 17:03:48.019 +00:00 [INF] Download2 Task running at: "2023-10-10T17:03:48.0142117+00:00"
+
+2023-10-10 17:03:48.019 +00:00 [INF] Viewer Task running at: "2023-10-10T17:03:48.0134969+00:00"
+
+2023-10-10 17:03:48.019 +00:00 [INF] result Task running at: "2023-10-10T17:03:48.0130316+00:00"
+
+2023-10-10 17:03:48.019 +00:00 [INF] Upload Task running at: "2023-10-10T17:03:48.0129751+00:00"
+
+2023-10-10 17:03:48.055 +00:00 [INF] Hosting environment: Development
+2023-10-10 17:03:48.057 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 17:04:38.243 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 17:04:38.248 +00:00 [INF] Viewer Task running at: "2023-10-10T17:04:38.2437808+00:00"
+
+2023-10-10 17:04:38.248 +00:00 [INF] Upload Task running at: "2023-10-10T17:04:38.2435810+00:00"
+
+2023-10-10 17:04:38.248 +00:00 [INF] Download Task running at: "2023-10-10T17:04:38.2449311+00:00"
+
+2023-10-10 17:04:38.248 +00:00 [INF] result Task running at: "2023-10-10T17:04:38.2436059+00:00"
+
+2023-10-10 17:04:38.248 +00:00 [INF] Download2 Task running at: "2023-10-10T17:04:38.2446172+00:00"
+
+2023-10-10 17:04:38.273 +00:00 [INF] Hosting environment: Development
+2023-10-10 17:04:38.274 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 17:05:08.331 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 17:05:08.335 +00:00 [INF] result Task running at: "2023-10-10T17:05:08.3312913+00:00"
+
+2023-10-10 17:05:08.335 +00:00 [INF] Viewer Task running at: "2023-10-10T17:05:08.3317548+00:00"
+
+2023-10-10 17:05:08.336 +00:00 [INF] Upload Task running at: "2023-10-10T17:05:08.3313229+00:00"
+
+2023-10-10 17:05:08.336 +00:00 [INF] Download Task running at: "2023-10-10T17:05:08.3329130+00:00"
+
+2023-10-10 17:05:08.336 +00:00 [INF] Download2 Task running at: "2023-10-10T17:05:08.3325706+00:00"
+
+2023-10-10 17:05:08.359 +00:00 [INF] Hosting environment: Development
+2023-10-10 17:05:08.361 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 17:05:23.365 +00:00 [INF] Download2 Task running at: "2023-10-10T17:05:23.3654428+00:00"
+
+2023-10-10 17:05:23.365 +00:00 [INF] Download Task running at: "2023-10-10T17:05:23.3654173+00:00"
+
+2023-10-10 17:05:23.365 +00:00 [INF] Viewer Task running at: "2023-10-10T17:05:23.3655976+00:00"
+
+2023-10-10 17:05:23.366 +00:00 [INF] result Task running at: "2023-10-10T17:05:23.3667936+00:00"
+
+2023-10-10 18:09:38.419 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:09:38.483 +00:00 [INF] Upload Task running at: "2023-10-10T18:09:38.4805875+00:00"
+
+2023-10-10 18:09:38.483 +00:00 [INF] Viewer Task running at: "2023-10-10T18:09:38.4818554+00:00"
+
+2023-10-10 18:09:38.483 +00:00 [INF] result Task running at: "2023-10-10T18:09:38.4806864+00:00"
+
+2023-10-10 18:09:38.483 +00:00 [INF] Download Task running at: "2023-10-10T18:09:38.4829624+00:00"
+
+2023-10-10 18:09:38.483 +00:00 [INF] Download2 Task running at: "2023-10-10T18:09:38.4825872+00:00"
+
+2023-10-10 18:09:38.502 +00:00 [INF] Hosting environment: Development
+2023-10-10 18:09:38.503 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 18:09:53.506 +00:00 [INF] Download Task running at: "2023-10-10T18:09:53.5059888+00:00"
+
+2023-10-10 18:09:53.506 +00:00 [INF] Download2 Task running at: "2023-10-10T18:09:53.5059444+00:00"
+
+2023-10-10 18:09:53.506 +00:00 [INF] Viewer Task running at: "2023-10-10T18:09:53.5058723+00:00"
+
+2023-10-10 18:09:53.507 +00:00 [INF] result Task running at: "2023-10-10T18:09:53.5072221+00:00"
+
+2023-10-10 18:10:08.506 +00:00 [INF] Viewer Task running at: "2023-10-10T18:10:08.5059391+00:00"
+
+2023-10-10 18:10:08.506 +00:00 [INF] Download2 Task running at: "2023-10-10T18:10:08.5059472+00:00"
+
+2023-10-10 18:10:08.506 +00:00 [INF] result Task running at: "2023-10-10T18:10:08.5059886+00:00"
+
+2023-10-10 18:10:08.521 +00:00 [INF] Download Task running at: "2023-10-10T18:10:08.5213951+00:00"
+
+2023-10-10 18:10:23.505 +00:00 [INF] Download2 Task running at: "2023-10-10T18:10:23.5055921+00:00"
+
+2023-10-10 18:10:23.505 +00:00 [INF] Viewer Task running at: "2023-10-10T18:10:23.5056288+00:00"
+
+2023-10-10 18:10:23.521 +00:00 [INF] result Task running at: "2023-10-10T18:10:23.5213309+00:00"
+
+2023-10-10 18:10:23.537 +00:00 [INF] Download Task running at: "2023-10-10T18:10:23.5370819+00:00"
+
+2023-10-10 18:11:14.504 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:11:14.510 +00:00 [INF] Upload Task running at: "2023-10-10T18:11:14.5051651+00:00"
+
+2023-10-10 18:11:14.510 +00:00 [INF] Download2 Task running at: "2023-10-10T18:11:14.5069819+00:00"
+
+2023-10-10 18:11:14.510 +00:00 [INF] result Task running at: "2023-10-10T18:11:14.5051956+00:00"
+
+2023-10-10 18:11:14.510 +00:00 [INF] Viewer Task running at: "2023-10-10T18:11:14.5054496+00:00"
+
+2023-10-10 18:11:14.510 +00:00 [INF] Download Task running at: "2023-10-10T18:11:14.5070266+00:00"
+
+2023-10-10 18:11:14.535 +00:00 [INF] Hosting environment: Development
+2023-10-10 18:11:14.536 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 18:11:29.552 +00:00 [INF] Viewer Task running at: "2023-10-10T18:11:29.5528059+00:00"
+
+2023-10-10 18:11:29.552 +00:00 [INF] Download2 Task running at: "2023-10-10T18:11:29.5527825+00:00"
+
+2023-10-10 18:11:29.552 +00:00 [INF] Download Task running at: "2023-10-10T18:11:29.5527030+00:00"
+
+2023-10-10 18:11:29.553 +00:00 [INF] result Task running at: "2023-10-10T18:11:29.5535079+00:00"
+
+2023-10-10 18:12:14.386 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:12:14.392 +00:00 [INF] Upload Task running at: "2023-10-10T18:12:14.3872071+00:00"
+
+2023-10-10 18:12:14.392 +00:00 [INF] Viewer Task running at: "2023-10-10T18:12:14.3875471+00:00"
+
+2023-10-10 18:12:14.392 +00:00 [INF] result Task running at: "2023-10-10T18:12:14.3872245+00:00"
+
+2023-10-10 18:12:14.392 +00:00 [INF] Download Task running at: "2023-10-10T18:12:14.3887332+00:00"
+
+2023-10-10 18:12:14.392 +00:00 [INF] Download2 Task running at: "2023-10-10T18:12:14.3886004+00:00"
+
+2023-10-10 18:12:14.416 +00:00 [INF] Hosting environment: Development
+2023-10-10 18:12:14.418 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 18:13:01.958 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:13:01.962 +00:00 [INF] Download2 Task running at: "2023-10-10T18:13:01.9595206+00:00"
+
+2023-10-10 18:13:01.962 +00:00 [INF] Viewer Task running at: "2023-10-10T18:13:01.9587072+00:00"
+
+2023-10-10 18:13:01.962 +00:00 [INF] Upload Task running at: "2023-10-10T18:13:01.9584793+00:00"
+
+2023-10-10 18:13:01.962 +00:00 [INF] result Task running at: "2023-10-10T18:13:01.9586029+00:00"
+
+2023-10-10 18:13:01.962 +00:00 [INF] Download Task running at: "2023-10-10T18:13:01.9599237+00:00"
+
+2023-10-10 18:13:01.988 +00:00 [INF] Hosting environment: Development
+2023-10-10 18:13:01.990 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 18:18:18.355 +00:00 [INF] Viewer Task running at: "2023-10-10T18:18:18.3516288+00:00"
+
+2023-10-10 18:18:18.352 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:18:18.355 +00:00 [INF] Download Task running at: "2023-10-10T18:18:18.3519147+00:00"
+
+2023-10-10 18:18:18.355 +00:00 [INF] Upload Task running at: "2023-10-10T18:18:18.3494873+00:00"
+
+2023-10-10 18:18:18.355 +00:00 [INF] Download2 Task running at: "2023-10-10T18:18:18.3524579+00:00"
+
+2023-10-10 18:18:18.355 +00:00 [INF] result Task running at: "2023-10-10T18:18:18.3550873+00:00"
+
+2023-10-10 18:18:18.385 +00:00 [INF] Hosting environment: Development
+2023-10-10 18:18:18.397 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 18:18:33.397 +00:00 [INF] Download2 Task running at: "2023-10-10T18:18:33.3971218+00:00"
+
+2023-10-10 18:18:33.397 +00:00 [INF] Viewer Task running at: "2023-10-10T18:18:33.3971245+00:00"
+
+2023-10-10 18:18:33.397 +00:00 [INF] Download Task running at: "2023-10-10T18:18:33.3971217+00:00"
+
+2023-10-10 18:18:33.398 +00:00 [INF] result Task running at: "2023-10-10T18:18:33.3983697+00:00"
+
+2023-10-10 18:20:56.015 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:20:56.020 +00:00 [INF] Download Task running at: "2023-10-10T18:20:56.0174054+00:00"
+
+2023-10-10 18:20:56.020 +00:00 [INF] result Task running at: "2023-10-10T18:20:56.0152005+00:00"
+
+2023-10-10 18:20:56.020 +00:00 [INF] Upload Task running at: "2023-10-10T18:20:56.0153497+00:00"
+
+2023-10-10 18:20:56.020 +00:00 [INF] Viewer Task running at: "2023-10-10T18:20:56.0168341+00:00"
+
+2023-10-10 18:20:56.020 +00:00 [INF] Download2 Task running at: "2023-10-10T18:20:56.0175540+00:00"
+
+2023-10-10 18:20:56.044 +00:00 [INF] Hosting environment: Development
+2023-10-10 18:20:56.046 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 18:21:11.054 +00:00 [INF] Download Task running at: "2023-10-10T18:21:11.0542491+00:00"
+
+2023-10-10 18:21:11.054 +00:00 [INF] Viewer Task running at: "2023-10-10T18:21:11.0542493+00:00"
+
+2023-10-10 18:21:11.055 +00:00 [INF] result Task running at: "2023-10-10T18:21:11.0554528+00:00"
+
+2023-10-10 18:21:47.767 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:21:47.769 +00:00 [INF] Download2 Task running at: "2023-10-10T18:21:47.7696694+00:00"
+
+2023-10-10 18:21:47.767 +00:00 [INF] Upload Task running at: "2023-10-10T18:21:47.7677097+00:00"
+
+2023-10-10 18:21:47.770 +00:00 [INF] Download Task running at: "2023-10-10T18:21:47.7704389+00:00"
+
+2023-10-10 18:21:47.767 +00:00 [INF] result Task running at: "2023-10-10T18:21:47.7620652+00:00"
+
+2023-10-10 18:21:47.775 +00:00 [INF] Viewer Task running at: "2023-10-10T18:21:47.7758522+00:00"
+
+2023-10-10 18:21:47.815 +00:00 [INF] Hosting environment: Development
+2023-10-10 18:21:47.826 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 18:22:02.839 +00:00 [INF] Download2 Task running at: "2023-10-10T18:22:02.8392124+00:00"
+
+2023-10-10 18:22:02.839 +00:00 [INF] Viewer Task running at: "2023-10-10T18:22:02.8391614+00:00"
+
+2023-10-10 18:22:02.839 +00:00 [INF] Download Task running at: "2023-10-10T18:22:02.8391212+00:00"
+
+2023-10-10 18:22:02.840 +00:00 [INF] result Task running at: "2023-10-10T18:22:02.8403755+00:00"
+
+2023-10-10 18:22:18.538 +00:00 [INF] Viewer Task running at: "2023-10-10T18:22:18.5383313+00:00"
+
+2023-10-10 18:22:18.538 +00:00 [INF] Download2 Task running at: "2023-10-10T18:22:18.5383318+00:00"
+
+2023-10-10 18:22:18.553 +00:00 [INF] Download Task running at: "2023-10-10T18:22:18.5537608+00:00"
+
+2023-10-10 18:22:18.553 +00:00 [INF] result Task running at: "2023-10-10T18:22:18.5538017+00:00"
+
+2023-10-10 18:23:20.925 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:23:20.932 +00:00 [INF] Download Task running at: "2023-10-10T18:23:20.9288982+00:00"
+
+2023-10-10 18:23:20.932 +00:00 [INF] Upload Task running at: "2023-10-10T18:23:20.9313135+00:00"
+
+2023-10-10 18:23:20.932 +00:00 [INF] Download2 Task running at: "2023-10-10T18:23:20.9311939+00:00"
+
+2023-10-10 18:23:20.932 +00:00 [INF] result Task running at: "2023-10-10T18:23:20.9313471+00:00"
+
+2023-10-10 18:23:20.932 +00:00 [INF] Viewer Task running at: "2023-10-10T18:23:20.9305243+00:00"
+
+2023-10-10 18:23:20.962 +00:00 [INF] Hosting environment: Development
+2023-10-10 18:23:20.963 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 18:23:35.969 +00:00 [INF] Download2 Task running at: "2023-10-10T18:23:35.9694658+00:00"
+
+2023-10-10 18:23:35.969 +00:00 [INF] Viewer Task running at: "2023-10-10T18:23:35.9694612+00:00"
+
+2023-10-10 18:23:35.970 +00:00 [INF] result Task running at: "2023-10-10T18:23:35.9707480+00:00"
+
+2023-10-10 18:24:11.006 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:24:11.011 +00:00 [INF] Download2 Task running at: "2023-10-10T18:24:11.0094761+00:00"
+
+2023-10-10 18:24:11.011 +00:00 [INF] Download Task running at: "2023-10-10T18:24:11.0095403+00:00"
+
+2023-10-10 18:24:11.011 +00:00 [INF] Upload Task running at: "2023-10-10T18:24:11.0076312+00:00"
+
+2023-10-10 18:24:11.011 +00:00 [INF] Viewer Task running at: "2023-10-10T18:24:11.0090757+00:00"
+
+2023-10-10 18:24:11.011 +00:00 [INF] result Task running at: "2023-10-10T18:24:11.0076428+00:00"
+
+2023-10-10 18:24:11.036 +00:00 [INF] Hosting environment: Development
+2023-10-10 18:24:11.038 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 18:24:26.051 +00:00 [INF] Download2 Task running at: "2023-10-10T18:24:26.0508706+00:00"
+
+2023-10-10 18:24:26.051 +00:00 [INF] Viewer Task running at: "2023-10-10T18:24:26.0509040+00:00"
+
+2023-10-10 18:24:26.052 +00:00 [INF] result Task running at: "2023-10-10T18:24:26.0521500+00:00"
+
+2023-10-10 18:24:28.092 +00:00 [INF] Download Task running at: "2023-10-10T18:24:28.0926336+00:00"
+
+2023-10-10 18:24:35.676 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 18:24:35.680 +00:00 [INF] Download2 Task running at: "2023-10-10T18:24:35.6778417+00:00"
+
+2023-10-10 18:24:35.680 +00:00 [INF] Viewer Task running at: "2023-10-10T18:24:35.6773132+00:00"
+
+2023-10-10 18:24:35.680 +00:00 [INF] Upload Task running at: "2023-10-10T18:24:35.6758572+00:00"
+
+2023-10-10 18:24:35.680 +00:00 [INF] result Task running at: "2023-10-10T18:24:35.6757690+00:00"
+
+2023-10-10 18:24:35.680 +00:00 [INF] Download Task running at: "2023-10-10T18:24:35.6779227+00:00"
+
+2023-10-10 18:24:35.704 +00:00 [INF] Hosting environment: Development
+2023-10-10 18:24:35.706 +00:00 [INF] Content root path: F:\com\Download_Upload\Download_Upload
+2023-10-10 18:24:50.709 +00:00 [INF] Download Task running at: "2023-10-10T18:24:50.7095487+00:00"
+
+2023-10-10 18:24:50.709 +00:00 [INF] Download2 Task running at: "2023-10-10T18:24:50.7095590+00:00"
+
+2023-10-10 18:24:50.709 +00:00 [INF] Viewer Task running at: "2023-10-10T18:24:50.7095488+00:00"
+
+2023-10-10 18:24:50.709 +00:00 [INF] result Task running at: "2023-10-10T18:24:50.7099163+00:00"
+
+2023-10-10 18:25:05.728 +00:00 [INF] Download2 Task running at: "2023-10-10T18:25:05.7288729+00:00"
+
+2023-10-10 18:25:05.728 +00:00 [INF] Viewer Task running at: "2023-10-10T18:25:05.7288808+00:00"
+
+2023-10-10 18:25:05.729 +00:00 [INF] result Task running at: "2023-10-10T18:25:05.7291072+00:00"
+
+2023-10-10 18:25:07.754 +00:00 [INF] Download Task running at: "2023-10-10T18:25:07.7539853+00:00"
+

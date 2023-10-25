@@ -1,0 +1,10 @@
+# Flutter/Dart/Pub related
+.bin/
+*.class
+*.log
+*.pyc
+*.swp
+.obj/
+.Properties/
+*.dll
+*.exe
